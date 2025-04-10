@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\GameProgramming_Personal\\cppProject2025\\Projectcpp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB45D2BB-2159-49B3-AEDA-F12A86C81497}|..\\ToyProject1\\ToyProject1.vcxproj|I:\\GameProgramming_Personal\\cppProject2025\\ToyProject1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C58B1F96-4820-473E-A0FA-9C8FF2F238EF}|..\\Ch1\\Ch1.vcxproj|I:\\GameProgramming_Personal\\cppProject2025\\Ch1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB937C04-34A1-4331-BA1A-53EFCE71BE62}|Projectcpp.vcxproj|I:\\GameProgramming_Personal\\cppProject2025\\Projectcpp\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB937C04-34A1-4331-BA1A-53EFCE71BE62}|Projectcpp.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "I:\\GameProgramming_Personal\\cppProject2025\\ToyProject1\\main.cpp",
+              "RelativeDocumentMoniker": "..\\ToyProject1\\main.cpp",
+              "ToolTip": "I:\\GameProgramming_Personal\\cppProject2025\\ToyProject1\\main.cpp",
+              "RelativeToolTip": "..\\ToyProject1\\main.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-10T08:19:28.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "I:\\GameProgramming_Personal\\cppProject2025\\Ch1\\main.cpp",
+              "RelativeDocumentMoniker": "..\\Ch1\\main.cpp",
+              "ToolTip": "I:\\GameProgramming_Personal\\cppProject2025\\Ch1\\main.cpp",
+              "RelativeToolTip": "..\\Ch1\\main.cpp",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwEkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-10T07:41:48.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "I:\\GameProgramming_Personal\\cppProject2025\\Projectcpp\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "I:\\GameProgramming_Personal\\cppProject2025\\Projectcpp\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-10T07:12:04.197Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
