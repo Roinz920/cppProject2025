@@ -11,6 +11,10 @@
 *	2. 이름 공간에 쓰여진 이름을 통해서 코드를 분류화 할 수 있다.
 */
 
+/*
+*	목표 : 플레이어의 이동을 참조자를 사용하여 함수화 해보기.
+*/
+
 #include <iostream>
 #include <Windows.h>
 #include <conio.h>
@@ -21,6 +25,45 @@ namespace ConsoleUtil
 	{
 		COORD pos = { x, y };
 		SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), pos);
+	}
+
+	void InputPlayerKey(int& x, int& y)
+	{
+		if (_kbhit())
+		{
+			if (GetAsyncKeyState(VK_LEFT))
+			{
+				x--;
+				if (x < 0)
+				{
+					x = 0;
+				}
+			}
+			else if (GetAsyncKeyState(VK_RIGHT))
+			{
+				x++;
+				if (x > 30)
+				{
+					x = 30;
+				}
+			}
+			else if (GetAsyncKeyState(VK_UP))
+			{
+				y--;
+				if (y < 0)
+				{
+					y = 0;
+				}
+			}
+			else if (GetAsyncKeyState(VK_DOWN))
+			{
+				y++;
+				if (y > 30)
+				{
+					y = 30;
+				}
+			}
+		}
 	}
 }
 
@@ -37,6 +80,7 @@ int main()
 
 	while (true) // c++에서는 bool.h 를 넣지 않아도 true, false 사용 가능!
 	{
+		
 		int inputNumber = 0;
 
 		std::cout << "1. 사용자의 이름을 변경 | 2. 플레이어의 정보 확인" << std::endl;
@@ -56,10 +100,21 @@ int main()
 		}
 		else
 		{
-			
+			break;
 		}
 		
 		system("cls");
 
+	}
+
+	int x = 0, y = 0;
+	while (true) // 플레이어의 이동 구현
+	{
+		system("cls");
+		ConsoleUtil::InputPlayerKey(x, y);		
+		std::cout << "플레이어의 좌표 : [ " << x << "," << y << "]" << std::endl;
+		ConsoleUtil::GoToXY(x, y);
+		std::cout << "★";
+		Sleep(100);
 	}
 }
