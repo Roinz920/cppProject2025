@@ -1,7 +1,7 @@
 /*
 *	Date : 2025-04-14
 	Name : 김정민
-	Subject : 참조자 // C, cpp의 차이점, 참조자
+	Subject : 참조자 함수
 */
 
 #include <iostream>
