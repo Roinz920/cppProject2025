@@ -1,0 +1,51 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.43.34808.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///i:/gameprogramming_personal/cppproject2025/battlesystem/image.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "7f462f6f0aeb3fc43f17c96330c113d03682f0ee882bd6f46a08e41c7cb69f42"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///i:/gameprogramming_personal/cppproject2025/battlesystem/image.h"
+          },
+          "hashes": {
+            "sha-256": "a56ffbcfe1815291f0ba9740fa870db7848b665bfcb422a1a8a9dff9c6ce2918"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///i:/gameprogramming_personal/cppproject2025/battlesystem/common.h"
+          },
+          "hashes": {
+            "sha-256": "cc40b571272f9c49ab4d5ce176f6bedd72d0b53272208ba9050931a6513d92c5"
+          }
+        }
+      ]
+    }
+  ]
+}
