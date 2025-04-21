@@ -3,37 +3,13 @@
   "WorkspaceRootPath": "I:\\GameProgramming_Personal\\cppProject2025\\Projectcpp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5747FD06-526F-4DA7-9F4C-8F10252FF73A}|..\\BattleSystem\\BattleSystem.vcxproj|I:\\GameProgramming_Personal\\cppProject2025\\BattleSystem\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9B2A79C1-5E9C-4DB0-AE2A-DCA9B2C85ABA}|..\\Ch6\\Ch6.vcxproj|I:\\GameProgramming_Personal\\cppProject2025\\Ch6\\OOP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5747FD06-526F-4DA7-9F4C-8F10252FF73A}|..\\BattleSystem\\BattleSystem.vcxproj|I:\\GameProgramming_Personal\\cppProject2025\\BattleSystem\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9B2A79C1-5E9C-4DB0-AE2A-DCA9B2C85ABA}|..\\Ch6\\Ch6.vcxproj|I:\\GameProgramming_Personal\\cppProject2025\\Ch6\\OOP.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5747FD06-526F-4DA7-9F4C-8F10252FF73A}|..\\BattleSystem\\BattleSystem.vcxproj|I:\\GameProgramming_Personal\\cppProject2025\\BattleSystem\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5747FD06-526F-4DA7-9F4C-8F10252FF73A}|..\\BattleSystem\\BattleSystem.vcxproj|I:\\GameProgramming_Personal\\cppProject2025\\BattleSystem\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5747FD06-526F-4DA7-9F4C-8F10252FF73A}|..\\BattleSystem\\BattleSystem.vcxproj|I:\\GameProgramming_Personal\\cppProject2025\\BattleSystem\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5747FD06-526F-4DA7-9F4C-8F10252FF73A}|..\\BattleSystem\\BattleSystem.vcxproj|I:\\GameProgramming_Personal\\cppProject2025\\BattleSystem\\Image.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5747FD06-526F-4DA7-9F4C-8F10252FF73A}|..\\BattleSystem\\BattleSystem.vcxproj|I:\\GameProgramming_Personal\\cppProject2025\\BattleSystem\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5747FD06-526F-4DA7-9F4C-8F10252FF73A}|..\\BattleSystem\\BattleSystem.vcxproj|I:\\GameProgramming_Personal\\cppProject2025\\BattleSystem\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5747FD06-526F-4DA7-9F4C-8F10252FF73A}|..\\BattleSystem\\BattleSystem.vcxproj|I:\\GameProgramming_Personal\\cppProject2025\\BattleSystem\\Common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5747FD06-526F-4DA7-9F4C-8F10252FF73A}|..\\BattleSystem\\BattleSystem.vcxproj|I:\\GameProgramming_Personal\\cppProject2025\\BattleSystem\\Image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5747FD06-526F-4DA7-9F4C-8F10252FF73A}|..\\BattleSystem\\BattleSystem.vcxproj|I:\\GameProgramming_Personal\\cppProject2025\\BattleSystem\\Common.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9B2A79C1-5E9C-4DB0-AE2A-DCA9B2C85ABA}|..\\Ch6\\Ch6.vcxproj|I:\\GameProgramming_Personal\\cppProject2025\\Ch6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,144 +24,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GameManager.cpp",
-              "DocumentMoniker": "I:\\GameProgramming_Personal\\cppProject2025\\BattleSystem\\GameManager.cpp",
-              "RelativeDocumentMoniker": "..\\BattleSystem\\GameManager.cpp",
-              "ToolTip": "I:\\GameProgramming_Personal\\cppProject2025\\BattleSystem\\GameManager.cpp",
-              "RelativeToolTip": "..\\BattleSystem\\GameManager.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBUAAAAeAAAAAAAAAA==",
+              "Title": "OOP.cpp",
+              "DocumentMoniker": "I:\\GameProgramming_Personal\\cppProject2025\\Ch6\\OOP.cpp",
+              "RelativeDocumentMoniker": "..\\Ch6\\OOP.cpp",
+              "ToolTip": "I:\\GameProgramming_Personal\\cppProject2025\\Ch6\\OOP.cpp",
+              "RelativeToolTip": "..\\Ch6\\OOP.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-20T10:02:56.449Z",
+              "WhenOpened": "2025-04-21T07:13:19.969Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GameManager.h",
-              "DocumentMoniker": "I:\\GameProgramming_Personal\\cppProject2025\\BattleSystem\\GameManager.h",
-              "RelativeDocumentMoniker": "..\\BattleSystem\\GameManager.h",
-              "ToolTip": "I:\\GameProgramming_Personal\\cppProject2025\\BattleSystem\\GameManager.h",
-              "RelativeToolTip": "..\\BattleSystem\\GameManager.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Title": "OOP.h",
+              "DocumentMoniker": "I:\\GameProgramming_Personal\\cppProject2025\\Ch6\\OOP.h",
+              "RelativeDocumentMoniker": "..\\Ch6\\OOP.h",
+              "ToolTip": "I:\\GameProgramming_Personal\\cppProject2025\\Ch6\\OOP.h",
+              "RelativeToolTip": "..\\Ch6\\OOP.h",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAMwEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-20T08:00:05.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Player.cpp",
-              "DocumentMoniker": "I:\\GameProgramming_Personal\\cppProject2025\\BattleSystem\\Player.cpp",
-              "RelativeDocumentMoniker": "..\\BattleSystem\\Player.cpp",
-              "ToolTip": "I:\\GameProgramming_Personal\\cppProject2025\\BattleSystem\\Player.cpp",
-              "RelativeToolTip": "..\\BattleSystem\\Player.cpp",
-              "ViewState": "AgIAADMAAAAAAAAAAAAnwE4AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-20T08:52:46.063Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Player.h",
-              "DocumentMoniker": "I:\\GameProgramming_Personal\\cppProject2025\\BattleSystem\\Player.h",
-              "RelativeDocumentMoniker": "..\\BattleSystem\\Player.h",
-              "ToolTip": "I:\\GameProgramming_Personal\\cppProject2025\\BattleSystem\\Player.h",
-              "RelativeToolTip": "..\\BattleSystem\\Player.h",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADEAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-20T08:28:40.721Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Common.cpp",
-              "DocumentMoniker": "I:\\GameProgramming_Personal\\cppProject2025\\BattleSystem\\Common.cpp",
-              "RelativeDocumentMoniker": "..\\BattleSystem\\Common.cpp",
-              "ToolTip": "I:\\GameProgramming_Personal\\cppProject2025\\BattleSystem\\Common.cpp",
-              "RelativeToolTip": "..\\BattleSystem\\Common.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-17T08:02:57.594Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Common.h",
-              "DocumentMoniker": "I:\\GameProgramming_Personal\\cppProject2025\\BattleSystem\\Common.h",
-              "RelativeDocumentMoniker": "..\\BattleSystem\\Common.h",
-              "ToolTip": "I:\\GameProgramming_Personal\\cppProject2025\\BattleSystem\\Common.h",
-              "RelativeToolTip": "..\\BattleSystem\\Common.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-17T07:06:40.966Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Image.cpp",
-              "DocumentMoniker": "I:\\GameProgramming_Personal\\cppProject2025\\BattleSystem\\Image.cpp",
-              "RelativeDocumentMoniker": "..\\BattleSystem\\Image.cpp",
-              "ToolTip": "I:\\GameProgramming_Personal\\cppProject2025\\BattleSystem\\Image.cpp",
-              "RelativeToolTip": "..\\BattleSystem\\Image.cpp",
-              "ViewState": "AgIAADkAAAAAAAAAAAAMwEwAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-17T07:34:03.682Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Image.h",
-              "DocumentMoniker": "I:\\GameProgramming_Personal\\cppProject2025\\BattleSystem\\Image.h",
-              "RelativeDocumentMoniker": "..\\BattleSystem\\Image.h",
-              "ToolTip": "I:\\GameProgramming_Personal\\cppProject2025\\BattleSystem\\Image.h",
-              "RelativeToolTip": "..\\BattleSystem\\Image.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-17T07:31:28.32Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Enemy.cpp",
-              "DocumentMoniker": "I:\\GameProgramming_Personal\\cppProject2025\\BattleSystem\\Enemy.cpp",
-              "RelativeDocumentMoniker": "..\\BattleSystem\\Enemy.cpp",
-              "ToolTip": "I:\\GameProgramming_Personal\\cppProject2025\\BattleSystem\\Enemy.cpp",
-              "RelativeToolTip": "..\\BattleSystem\\Enemy.cpp",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAcwDcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-17T07:43:45.4Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Enemy.h",
-              "DocumentMoniker": "I:\\GameProgramming_Personal\\cppProject2025\\BattleSystem\\Enemy.h",
-              "RelativeDocumentMoniker": "..\\BattleSystem\\Enemy.h",
-              "ToolTip": "I:\\GameProgramming_Personal\\cppProject2025\\BattleSystem\\Enemy.h",
-              "RelativeToolTip": "..\\BattleSystem\\Enemy.h",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-17T07:16:56.483Z",
+              "WhenOpened": "2025-04-21T07:10:53.064Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "main.cpp",
-              "DocumentMoniker": "I:\\GameProgramming_Personal\\cppProject2025\\BattleSystem\\main.cpp",
-              "RelativeDocumentMoniker": "..\\BattleSystem\\main.cpp",
-              "ToolTip": "I:\\GameProgramming_Personal\\cppProject2025\\BattleSystem\\main.cpp",
-              "RelativeToolTip": "..\\BattleSystem\\main.cpp",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAnwCIAAAAKAAAAAAAAAA==",
+              "DocumentMoniker": "I:\\GameProgramming_Personal\\cppProject2025\\Ch6\\main.cpp",
+              "RelativeDocumentMoniker": "..\\Ch6\\main.cpp",
+              "ToolTip": "I:\\GameProgramming_Personal\\cppProject2025\\Ch6\\main.cpp",
+              "RelativeToolTip": "..\\Ch6\\main.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-17T07:02:57.474Z",
+              "WhenOpened": "2025-04-21T07:04:14.883Z",
               "EditorCaption": ""
             }
           ]
