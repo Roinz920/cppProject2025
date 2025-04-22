@@ -48,6 +48,6 @@ int main()
 	Example1();
 
 	Player player;
-	player.HP = 100;	// 이렇게 외부에서 private에 선언된 변수에 접근이 가능하게 하는 것을 '에디팅'이라고 부름
+	//player.HP = 100;	// 이렇게 외부에서 private에 선언된 변수에 접근이 가능하게 하는 것을 '에디팅'이라고 부름
 	
 }
