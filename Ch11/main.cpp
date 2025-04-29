@@ -22,13 +22,15 @@ int main()
 	system("cls");
 	std::cout << "달리기 게임 코드" << std::endl;
 
-	Runner* runA = new Runner("A");
+	Runner* runA = new Player();
 	Runner* runB = new Runner("B");
 	Runner* runC = new Runner("C");
 	Runner* runD = new Runner("D");
 
-		string line = "===============================================================================";
+		string line = "=====================================================================";
 	int endline = line.length();
+	ConsoleUtil::PlayBGM(_T("sound.wav"));
+	
 	
 
 	while (true)
@@ -36,6 +38,7 @@ int main()
 		Sleep(250);	//	Sleep(1000); → 1000ms (1초)마다 게임을 업데이트
 		system("cls");	// 화면 지우기
 
+		cout << line << endl;
 		runA->Run();
 		runB->Run();
 		runC->Run();

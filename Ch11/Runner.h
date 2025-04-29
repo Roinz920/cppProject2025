@@ -6,12 +6,15 @@
 class Runner
 {
 private:
-	int run;		// 주자의 현재 이동 거리.
 	bool IsEnd;		// 주자의 도착 판정
 protected:
+	int run;		// 주자의 현재 이동 거리.
 	int MinSpeed;
 	int MaxSpeed;
 	string symbol;
+	virtual void SetMaxSpeed();
+	void DrawMoveDistance();
+	virtual void SetShape();
 public:
 	Runner() :run(0), IsEnd(false), MinSpeed(1), MaxSpeed(3), symbol("E") {}
 	Runner(string symbol) : run(0), IsEnd(false), MinSpeed(1), MaxSpeed(3), symbol(symbol) {}
@@ -20,9 +23,13 @@ public:
 	bool CheckEndLine(int length);
 };
 
-class Player : Runner
+class Player : public Runner
 {
 private:
+
+protected:
+	void SetMaxSpeed() override;
+	void SetShape() override;
 
 public:
 	Player() : Runner()
@@ -33,10 +40,10 @@ public:
 
 public:
 	void Run() override;
-	void Upgrade(int )
+	void Upgrade(int a);
 };
 
-class Enemy : Runner
+class Enemy : public Runner
 {
 private:
 
