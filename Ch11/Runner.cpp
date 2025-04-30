@@ -10,6 +10,7 @@ void Runner::SetMaxSpeed()
 	}
 }
 
+
 void Runner::DrawMoveDistance()
 {
 	for (int i = 0; i < run; i++)				// 2. 이동한다.
@@ -43,6 +44,71 @@ bool Runner::CheckEndLine(int length)
 	return IsEnd;
 }
 
+void Runner::ShowPlayerGameInfo()
+{
+}
+
+void Runner::Upgrade(PlayerStat selectedStat)
+{
+	if (selectedStat == PlayerStat::MINSPEED)
+	{
+		MinSpeed++;
+		cout << "최소 속도 1 증가" << endl;
+	}
+	else if (selectedStat == PlayerStat::MAXSPEED)
+	{
+		MaxSpeed++;
+		cout << "최대 속도 1 증가" << endl;
+	}
+	else if (selectedStat == PlayerStat::NONE)
+	{
+		cout << "적용될 스탯 없음" << endl;
+	}
+}
+
+void Runner::Upgrade(PlayerStat selectedStat, int amount)
+{
+	if (selectedStat == PlayerStat::MINSPEED)
+	{
+		AdjustMinSpeed(amount);
+		cout << "최소 속도 " << amount << "만큼 증가" << endl;
+	}
+	else if (selectedStat == PlayerStat::MAXSPEED)
+	{
+		AdjustMaxSpeed(amount);
+		cout << "최대 속도 " << amount << "만큼 증가" << endl;
+	}
+	else if (selectedStat == PlayerStat::NONE)
+	{
+		cout << "적용될 스탯 없음" << endl;
+	}
+}
+
+void Runner::AdjustMinSpeed(int value)
+{
+	if (MaxSpeed < value)
+	{
+		value = MaxSpeed;
+	}
+	MinSpeed += value;
+}
+
+void Runner::AdjustMaxSpeed(int value)
+{
+	if (10 < value)
+	{
+		value = 10;
+	}
+	MaxSpeed += value;
+}
+
+void Runner::RunnerInitialize()
+{
+	run = 0;
+	IsEnd = false;
+
+}
+
 void Player::SetMaxSpeed()
 {
 	int applyMaxSpeed = MaxSpeed + 2;	// 캐릭터 보정 스킬
@@ -62,6 +128,15 @@ void Player::SetShape()
 	{
 		cout << symbol << endl;
 	}
+}
+
+void Player::ShowPlayerGameInfo()
+{
+	ConsoleUtil::gotoXY(5, 5);
+	cout << "유저 정보" << endl;
+	cout << "최소 속도 : " << MinSpeed << endl;
+	cout << "최대 속도 : " << MaxSpeed << endl;
+	cout << "보유 금액 : " << money << endl;
 }
 
 void Player::Run()
