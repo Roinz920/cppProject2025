@@ -24,12 +24,18 @@
     <ClCompile Include="NoteSkin.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Line.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="NoteHandler.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="NoteSkin.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Line.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

@@ -1,0 +1,5 @@
+1 LongSword  100 0 5
+2 WoodenShield 200 1 3
+3 HPPotion 300 2 4
+4 MPPotion 400 3 5
+5 EmergencyKit 500 0 5
