@@ -3,19 +3,28 @@
   "WorkspaceRootPath": "I:\\GameProgramming_Personal\\cppProject2025\\Projectcpp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1C0F926-92A4-4E45-A276-28B4F984186B}|..\\StoryTelling\\StoryTelling.vcxproj|I:\\GameProgramming_Personal\\cppProject2025\\StoryTelling\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{535126C9-AD4F-4976-99CD-32CAD96D0D99}|..\\NoteDropGame\\NoteDropGame.vcxproj|I:\\GameProgramming_Personal\\cppProject2025\\NoteDropGame\\NoteHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1C0F926-92A4-4E45-A276-28B4F984186B}|..\\StoryTelling\\StoryTelling.vcxproj|I:\\GameProgramming_Personal\\cppProject2025\\StoryTelling\\Actor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{535126C9-AD4F-4976-99CD-32CAD96D0D99}|..\\NoteDropGame\\NoteDropGame.vcxproj|I:\\GameProgramming_Personal\\cppProject2025\\NoteDropGame\\NoteHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1C0F926-92A4-4E45-A276-28B4F984186B}|..\\StoryTelling\\StoryTelling.vcxproj|I:\\GameProgramming_Personal\\cppProject2025\\StoryTelling\\ImageModel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{535126C9-AD4F-4976-99CD-32CAD96D0D99}|..\\NoteDropGame\\NoteDropGame.vcxproj|I:\\GameProgramming_Personal\\cppProject2025\\NoteDropGame\\Line.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1C0F926-92A4-4E45-A276-28B4F984186B}|..\\StoryTelling\\StoryTelling.vcxproj|I:\\GameProgramming_Personal\\cppProject2025\\StoryTelling\\Console.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{535126C9-AD4F-4976-99CD-32CAD96D0D99}|..\\NoteDropGame\\NoteDropGame.vcxproj|I:\\GameProgramming_Personal\\cppProject2025\\NoteDropGame\\Line.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1C0F926-92A4-4E45-A276-28B4F984186B}|..\\StoryTelling\\StoryTelling.vcxproj|I:\\GameProgramming_Personal\\cppProject2025\\StoryTelling\\Image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{535126C9-AD4F-4976-99CD-32CAD96D0D99}|..\\NoteDropGame\\NoteDropGame.vcxproj|I:\\GameProgramming_Personal\\cppProject2025\\NoteDropGame\\Common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535126C9-AD4F-4976-99CD-32CAD96D0D99}|..\\NoteDropGame\\NoteDropGame.vcxproj|I:\\GameProgramming_Personal\\cppProject2025\\NoteDropGame\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535126C9-AD4F-4976-99CD-32CAD96D0D99}|..\\NoteDropGame\\NoteDropGame.vcxproj|I:\\GameProgramming_Personal\\cppProject2025\\NoteDropGame\\NoteSkin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535126C9-AD4F-4976-99CD-32CAD96D0D99}|..\\NoteDropGame\\NoteDropGame.vcxproj|I:\\GameProgramming_Personal\\cppProject2025\\NoteDropGame\\NoteSkin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,72 +33,117 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 331,
-          "SelectedChildIndex": 4,
+          "DockedWidth": 506,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Actor.h",
-              "DocumentMoniker": "I:\\GameProgramming_Personal\\cppProject2025\\StoryTelling\\Actor.h",
-              "RelativeDocumentMoniker": "..\\StoryTelling\\Actor.h",
-              "ToolTip": "I:\\GameProgramming_Personal\\cppProject2025\\StoryTelling\\Actor.h",
-              "RelativeToolTip": "..\\StoryTelling\\Actor.h",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBoAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-06T08:13:55.141Z",
+              "DocumentIndex": 7,
+              "Title": "NoteSkin.cpp",
+              "DocumentMoniker": "I:\\GameProgramming_Personal\\cppProject2025\\NoteDropGame\\NoteSkin.cpp",
+              "RelativeDocumentMoniker": "..\\NoteDropGame\\NoteSkin.cpp",
+              "ToolTip": "I:\\GameProgramming_Personal\\cppProject2025\\NoteDropGame\\NoteSkin.cpp",
+              "RelativeToolTip": "..\\NoteDropGame\\NoteSkin.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T07:29:35.949Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Image.h",
-              "DocumentMoniker": "I:\\GameProgramming_Personal\\cppProject2025\\StoryTelling\\Image.h",
-              "RelativeDocumentMoniker": "..\\StoryTelling\\Image.h",
-              "ToolTip": "I:\\GameProgramming_Personal\\cppProject2025\\StoryTelling\\Image.h",
-              "RelativeToolTip": "..\\StoryTelling\\Image.h",
-              "ViewState": "AgIAACkAAAAAAAAAAAAcwEEAAAARAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "NoteSkin.h",
+              "DocumentMoniker": "I:\\GameProgramming_Personal\\cppProject2025\\NoteDropGame\\NoteSkin.h",
+              "RelativeDocumentMoniker": "..\\NoteDropGame\\NoteSkin.h",
+              "ToolTip": "I:\\GameProgramming_Personal\\cppProject2025\\NoteDropGame\\NoteSkin.h",
+              "RelativeToolTip": "..\\NoteDropGame\\NoteSkin.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-06T07:28:31.91Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ImageModel.h",
-              "DocumentMoniker": "I:\\GameProgramming_Personal\\cppProject2025\\StoryTelling\\ImageModel.h",
-              "RelativeDocumentMoniker": "..\\StoryTelling\\ImageModel.h",
-              "ToolTip": "I:\\GameProgramming_Personal\\cppProject2025\\StoryTelling\\ImageModel.h",
-              "RelativeToolTip": "..\\StoryTelling\\ImageModel.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-06T07:19:15.084Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Console.h",
-              "DocumentMoniker": "I:\\GameProgramming_Personal\\cppProject2025\\StoryTelling\\Console.h",
-              "RelativeDocumentMoniker": "..\\StoryTelling\\Console.h",
-              "ToolTip": "I:\\GameProgramming_Personal\\cppProject2025\\StoryTelling\\Console.h",
-              "RelativeToolTip": "..\\StoryTelling\\Console.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-06T07:08:20.576Z",
+              "WhenOpened": "2025-05-07T07:29:35.381Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "main.cpp",
-              "DocumentMoniker": "I:\\GameProgramming_Personal\\cppProject2025\\StoryTelling\\main.cpp",
-              "RelativeDocumentMoniker": "..\\StoryTelling\\main.cpp",
-              "ToolTip": "I:\\GameProgramming_Personal\\cppProject2025\\StoryTelling\\main.cpp*",
-              "RelativeToolTip": "..\\StoryTelling\\main.cpp*",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAACEAAAAqAAAAAAAAAA==",
+              "Title": "NoteHandler.cpp",
+              "DocumentMoniker": "I:\\GameProgramming_Personal\\cppProject2025\\NoteDropGame\\NoteHandler.cpp",
+              "RelativeDocumentMoniker": "..\\NoteDropGame\\NoteHandler.cpp",
+              "ToolTip": "I:\\GameProgramming_Personal\\cppProject2025\\NoteDropGame\\NoteHandler.cpp",
+              "RelativeToolTip": "..\\NoteDropGame\\NoteHandler.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-06T07:06:18.303Z",
+              "WhenOpened": "2025-05-07T07:29:34.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NoteHandler.h",
+              "DocumentMoniker": "I:\\GameProgramming_Personal\\cppProject2025\\NoteDropGame\\NoteHandler.h",
+              "RelativeDocumentMoniker": "..\\NoteDropGame\\NoteHandler.h",
+              "ToolTip": "I:\\GameProgramming_Personal\\cppProject2025\\NoteDropGame\\NoteHandler.h",
+              "RelativeToolTip": "..\\NoteDropGame\\NoteHandler.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-07T07:29:34.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Line.cpp",
+              "DocumentMoniker": "I:\\GameProgramming_Personal\\cppProject2025\\NoteDropGame\\Line.cpp",
+              "RelativeDocumentMoniker": "..\\NoteDropGame\\Line.cpp",
+              "ToolTip": "I:\\GameProgramming_Personal\\cppProject2025\\NoteDropGame\\Line.cpp",
+              "RelativeToolTip": "..\\NoteDropGame\\Line.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T07:29:33.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Line.h",
+              "DocumentMoniker": "I:\\GameProgramming_Personal\\cppProject2025\\NoteDropGame\\Line.h",
+              "RelativeDocumentMoniker": "..\\NoteDropGame\\Line.h",
+              "ToolTip": "I:\\GameProgramming_Personal\\cppProject2025\\NoteDropGame\\Line.h",
+              "RelativeToolTip": "..\\NoteDropGame\\Line.h",
+              "ViewState": "AgIAABMAAAAAAAAAAAAnwBwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-07T07:29:32.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.cpp",
+              "DocumentMoniker": "I:\\GameProgramming_Personal\\cppProject2025\\NoteDropGame\\main.cpp",
+              "RelativeDocumentMoniker": "..\\NoteDropGame\\main.cpp",
+              "ToolTip": "I:\\GameProgramming_Personal\\cppProject2025\\NoteDropGame\\main.cpp",
+              "RelativeToolTip": "..\\NoteDropGame\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T07:29:28.495Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 156,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Common.h",
+              "DocumentMoniker": "I:\\GameProgramming_Personal\\cppProject2025\\NoteDropGame\\Common.h",
+              "RelativeDocumentMoniker": "..\\NoteDropGame\\Common.h",
+              "ToolTip": "I:\\GameProgramming_Personal\\cppProject2025\\NoteDropGame\\Common.h",
+              "RelativeToolTip": "..\\NoteDropGame\\Common.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-07T07:44:51.136Z",
               "EditorCaption": ""
             }
           ]

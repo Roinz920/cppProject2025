@@ -1,6 +1,8 @@
 #include "NoteHandler.h"
 
-#include <iostream>
+void NoteHandler::Rendering(Line::time_t input) const
+{
+	using namespace std::chrono_literals;
 
-
-
+	
+}

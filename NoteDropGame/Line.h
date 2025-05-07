@@ -1,10 +1,6 @@
 #pragma once
-#include <iostream>
-#include <Windows.h>
-#include <string_view>
-#include <list>
-#include <chrono>
-#include <functional>
+
+#include "Common.h"
 
 using Clock_time = std::chrono::steady_clock;
 using ClockDuration_time = Clock_time::duration;
@@ -29,12 +25,12 @@ public:
 	{}
 	~Line() {}
 
-	void update(time_t input);
-	void hit(time_t input);
-
 	const datalist_t& data() const { return m_data; }
 	size_t size() const { return m_data.size(); }
 	bool empty() const { return m_data.empty(); }
+
+	void update(time_t input);
+	void hit(time_t input);
 private:
 	datalist_t m_data;
 	time_t m_Judge;
@@ -44,5 +40,5 @@ private:
 
 };
 
-inline void GOTOXY(int x, int y) { SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), COORD{ (short)x, (short)y }); }
+
 
